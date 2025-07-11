@@ -33,6 +33,7 @@ Author:
     https://www.linkedin.com/in/zafarrafii/
     08/24/21
 """
+import robot from *
 
 import numpy as np
 import scipy.sparse
